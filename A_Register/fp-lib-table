@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "8_Bit_CPU_Bus_Header")(type "KiCad")(uri "/Users/adrianperras/Library/Mobile Documents/com~apple~CloudDocs/KiCad/8_Bit_CPU/Symbols : Footprints /8_Bit_CPU_Connectors/8_Bit_CPU_Bus_Header.pretty")(options "")(descr ""))
+)
